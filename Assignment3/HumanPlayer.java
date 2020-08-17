@@ -2,6 +2,8 @@
  * This is the Human player class
  */
 public class HumanPlayer extends NimPlayer {
+
+	int age;
 	
 	public HumanPlayer() {
 		super();
