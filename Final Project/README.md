@@ -15,4 +15,11 @@ agreen signal (image source:  http://moralmachine.mit.edu/)
 
 ## Game Start
 
-You can run [`EthicalEngine.java`](https://github.com/ruichenaero/COMP90041-Assignment/blob/master/Final%20Project/EthicalEngine.java) to start the game.
+You can run [`EthicalEngine.java`](https://github.com/ruichenaero/COMP90041-Assignment/blob/master/Final%20Project/EthicalEngine.java) using command line to start the game.
+
+You can use the arguments following:
+
+`-c` or `--config`      Optional: path to config file
+`-h` or `--help`        Print Help (this message) and exit
+`-r` or `--results`     Optional: path to results log file
+`-i` or `--interactive` Optional: launches interactive mode
