@@ -13,4 +13,6 @@ continue ahead and drive through thecrossing  resulting  in  one  elderly  man, 
 and crash into a concrete barrier resulting in the death of its passengers:  onewomen, one man, and one baby.  Note that the pedestrians abide by the law as they are crossing on
 agreen signal (image source:  http://moralmachine.mit.edu/)
 
- [`EthicalEngine.java`](https://github.com/ruichenaero/COMP90041-Assignment/blob/master/Final%20Project/EthicalEngine.java)
+## Game Start
+
+You can run [`EthicalEngine.java`](https://github.com/ruichenaero/COMP90041-Assignment/blob/master/Final%20Project/EthicalEngine.java) to start the game.
