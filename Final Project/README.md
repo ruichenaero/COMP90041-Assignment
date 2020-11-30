@@ -12,3 +12,5 @@ and allow users of your program to judge the outcomes themselves.
 continue ahead and drive through thecrossing  resulting  in  one  elderly  man,  one  pregnant  woman,  one  boy,  and  one  dog  losing  their  lives.Right:The car will swerve
 and crash into a concrete barrier resulting in the death of its passengers:  onewomen, one man, and one baby.  Note that the pedestrians abide by the law as they are crossing on
 agreen signal (image source:  http://moralmachine.mit.edu/)
+
+ [CONTEST.md](CONTEST.md)
