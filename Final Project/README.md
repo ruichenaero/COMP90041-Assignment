@@ -19,7 +19,7 @@ You can run [`EthicalEngine.java`](https://github.com/ruichenaero/COMP90041-Assi
 
 You can use the arguments following:
 
-`-c` or `--config`      Optional: path to config file
-`-h` or `--help`        Print Help (this message) and exit
-`-r` or `--results`     Optional: path to results log file
-`-i` or `--interactive` Optional: launches interactive mode
+`-c` or `--config`          Optional: path to config file <br>
+`-h` or `--help`        Print Help (this message) and exit <br>
+`-r` or `--results`     Optional: path to results log file <br>
+`-i` or `--interactive` Optional: launches interactive mode <br>
